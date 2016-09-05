@@ -1,0 +1,19 @@
+{
+  "name": "webpack4_test",
+  "version": "1.0.0",
+  "description": "webpack 4 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "author": "Dustin Keppler",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "lodash": "^4.15.0"
+  }
+}
